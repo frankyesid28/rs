@@ -1,2 +1,2 @@
 # rs
-este es un repositorio de prueva de modulo 2 de henrry
+este es mi primer repositorio de como crear un repositorio y conarlo desde mi cuenta git hut
